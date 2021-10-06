@@ -1,3 +1,5 @@
+<h1> Olympic Games Analysis using SQL and PowerBI </h1>
+
 The business problem of this Data Analyst project is outlined below:
 
 "As a data analyst working at a news company you are asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.
